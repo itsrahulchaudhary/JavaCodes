@@ -1,9 +1,9 @@
-package in.rahulit.collection.cursors;
+package in.rahulit.collection;
 
 import java.util.Enumeration;
 import java.util.Vector;
 
-public class C01Enumeration {
+public class C04Enumeration {
 
 	public static void main(String[] args) {
 

@@ -1,11 +1,11 @@
-package in.rahulit.collection.cursors;
+package in.rahulit.collection;
 
 import java.util.Enumeration;
 import java.util.Iterator;
 import java.util.ListIterator;
 import java.util.Vector;
 
-public class C04Cursors {
+public class C07Cursors {
 	public static void main(String[] args) {
 		Vector v = new Vector();
 		Enumeration e = v.elements();

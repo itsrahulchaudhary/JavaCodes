@@ -1,9 +1,9 @@
-package in.rahulit.collection.cursors;
+package in.rahulit.collection;
 
 import java.util.LinkedList;
 import java.util.ListIterator;
 
-public class C03ListIterator {
+public class C06ListIterator {
 	public static void main(String[] args) {
 		LinkedList l = new LinkedList<>();
 		l.add("balakrishna");

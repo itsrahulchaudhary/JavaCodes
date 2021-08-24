@@ -1,4 +1,4 @@
-package in.rahulit.collection.list;
+package in.rahulit.collection;
 
 import java.util.ArrayList;
 
